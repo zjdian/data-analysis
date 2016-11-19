@@ -1,0 +1,23 @@
+Month,Stat,EPL,La Liga,Serie A,Bundesliga
+08/01/2012,MatchesPlayed,20,20,10,10
+09/01/2012,MatchesPlayed,38,39,50,44
+10/01/2012,MatchesPlayed,31,31,39,27
+11/01/2012,MatchesPlayed,50,41,42,46
+12/01/2012,MatchesPlayed,59,39,39,26
+01/01/2013,MatchesPlayed,42,40,40,18
+02/01/2013,MatchesPlayed,30,40,40,36
+03/01/2013,MatchesPlayed,35,38,39,36
+04/01/2013,MatchesPlayed,42,42,41,36
+05/01/2013,MatchesPlayed,33,40,40,27
+06/02/2013,MatchesPlayed,,10,,
+08/01/2012,GoalsScored,57,60,21,23
+09/01/2012,GoalsScored,111,112,133,135
+10/01/2012,GoalsScored,95,88,97,77
+11/01/2012,GoalsScored,121,116,120,137
+12/01/2012,GoalsScored,183,109,125,72
+01/01/2013,GoalsScored,117,121,104,51
+02/01/2013,GoalsScored,87,110,100,101
+03/01/2013,GoalsScored,91,101,99,106
+04/01/2013,GoalsScored,105,127,102,104
+05/01/2013,GoalsScored,96,109,102,92
+06/01/2013,GoalsScored,,80,,
